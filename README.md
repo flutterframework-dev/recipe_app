@@ -1,16 +1,5 @@
-# recipe_app
+# Flutter Recipe App 
 
-A new Flutter project.
+- [UI Design by fawwaz_adzima](https://dribbble.com/fawwaz_adzima)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Design](https://instagram.fbom3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/130219943_1096402007459726_7476626356219070485_n.jpg?tp=1&_nc_ht=instagram.fbom3-2.fna.fbcdn.net&_nc_cat=102&_nc_ohc=l0afpujhTMUAX8WwQRc&oh=ddae846c4dd62e14ccb8d41a5d118cf8&oe=6076A8A8)
